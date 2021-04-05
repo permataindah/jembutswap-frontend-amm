@@ -1992,6 +1992,16 @@
     react-transition-group "^4.4.1"
     styled-system "^5.1.5"
 
+"@pancakeswap-libs/uikit@https://github.com/xclawkevin/goose-uikit":
+  version "0.10.2"
+  resolved "https://github.com/xclawkevin/goose-uikit#886168abdbfecc04bce20d016f40f3f11928f23d"
+  dependencies:
+    "@types/lodash" "^4.14.162"
+    "@types/styled-system" "^5.1.10"
+    lodash "^4.17.20"
+    react-transition-group "^4.4.1"
+    styled-system "^5.1.5"
+
 "@pedrouid/iso-crypto@^1.0.0":
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/@pedrouid/iso-crypto/-/iso-crypto-1.0.0.tgz#cf06b40ef3da3d7ca7363bd7a521ed59fa2fd13d"
