@@ -1984,7 +1984,7 @@
 
 "@pancakeswap-libs/uikit@https://github.com/xclawkevin/goose-uikit":
   version "0.10.2"
-  resolved "https://github.com/xclawkevin/goose-uikit#3694d71ab5f191669e71bccaa79a9ab83c46de18"
+  resolved "https://github.com/xclawkevin/goose-uikit#792d2d9b03633aa30d05df102a74d1b005676c78"
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"
