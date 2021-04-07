@@ -24,6 +24,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "/images/coins/BUSD.png"
+    },
+    {
+      "name": "TokoCrypto",
+      "symbol": "TKO",
+      "address": "0x9f589e3eabe42ebc94a44727b3f3531c0c877809",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/TKO.png"
     }
   ]
 }
