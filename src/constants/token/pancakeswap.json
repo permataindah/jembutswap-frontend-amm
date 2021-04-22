@@ -26,12 +26,12 @@
       "logoURI": "/images/coins/BUSD.png"
     },
     {
-      "name": "TokoCrypto",
-      "symbol": "TKO",
+      "name": "JembutSwap",
+      "symbol": "JEMBUT",
       "address": "0x9f589e3eabe42ebc94a44727b3f3531c0c877809",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "/images/coins/TKO.png"
+      "logoURI": "/images/coins/jmbt.png"
     }
   ]
 }
