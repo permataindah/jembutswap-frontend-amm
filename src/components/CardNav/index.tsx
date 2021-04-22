@@ -24,7 +24,7 @@ const Nav = ({ activeIndex = 0 }: { activeIndex?: number }) => (
         target="_blank"
         rel="noreferrer noopener"
       >
-        Moon
+        Rug
       </ButtonMenuItem>
     </ButtonMenu>
   </StyledNav>
