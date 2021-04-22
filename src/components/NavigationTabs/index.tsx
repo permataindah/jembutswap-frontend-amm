@@ -89,7 +89,7 @@ export function SwapPoolTabs({ active }: { active: 'swap' | 'pool' }) {
         <TranslatedText translationId={74}>We</TranslatedText>
       </StyledNavLink>
       <StyledAbsoluteLink id="pool-nav-link" target="_blank" href="https://poocoin.app/tokens/">
-        Moon
+        Rug
       </StyledAbsoluteLink>
     </Tabs>
   )
